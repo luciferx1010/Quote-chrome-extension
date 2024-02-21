@@ -1,4 +1,4 @@
-# Random Quote Generator Chrome Extension
+# Quote Generator Chrome Extension
 
 This is a simple Chrome extension that generates random quotes using an API.
 
