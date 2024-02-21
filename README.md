@@ -24,7 +24,7 @@ Once the extension is installed, you can click on the extension icon in the brow
 - HTML
 - CSS
 - JavaScript
-- Chrome Extension API
+- Quotable API
 
 ## Credits
 
